@@ -1,3 +1,10 @@
+![Screenshot from 2022-07-08 17-22-54](https://user-images.githubusercontent.com/88322471/177991688-13a381ea-5155-4d07-8fb7-5cd94effa318.png)
+<br/>
+card hover: 
+<br/>
+![Screenshot from 2022-07-08 17-23-01](https://user-images.githubusercontent.com/88322471/177991944-3062efa1-6007-4d74-9a70-f7aff0d29692.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
