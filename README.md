@@ -3,6 +3,13 @@
 card hover: 
 <br/>
 ![Screenshot from 2022-07-08 17-23-01](https://user-images.githubusercontent.com/88322471/177991944-3062efa1-6007-4d74-9a70-f7aff0d29692.png)
+<br/>
+Card Details:
+![Screenshot from 2022-07-08 17-23-18](https://user-images.githubusercontent.com/88322471/177992174-d5b40ed1-742e-4db8-a9a2-f4af53ed6db0.png)
+<br/>
+Favourites:
+<br/>
+![Screenshot from 2022-07-08 17-23-27](https://user-images.githubusercontent.com/88322471/177992449-8882c1f5-403b-4d31-8e69-5a89255e0986.png)
 
 
 # Getting Started with Create React App
